@@ -19,6 +19,10 @@
 
 python train.py
 
+## 对比：
+python showDifferences.py 
+
+可视化对比MLP算法和CNN算法的识别性能
 
 
 ## 检测：
